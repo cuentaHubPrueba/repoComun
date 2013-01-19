@@ -1,0 +1,4 @@
+repoComun
+=========
+
+Prueba repositorio compartido
